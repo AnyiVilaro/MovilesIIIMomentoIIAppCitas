@@ -1,0 +1,11 @@
+Para ejecutar la aplicación movil:
+Crear una base de datos en MongoDB con el nombre citapp y dos colecciones: users y appointments
+1. npm install
+2. expo start
+
+Para ejecutar la api de node js
+1. npm install
+2. npm start
+
+Para ejecutar la api de php:
+cargarlo en xampp en la carpeta htdocs
