@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 15680,
+  "expoServerNgrokUrl": "https://49-ct2.anonymous.citapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.49-ct2.anonymous.citapp.exp.direct",
+  "ngrokPid": 9092,
+  "webpackServerPort": null
+}
