@@ -1,4 +1,4 @@
-Para ejecutar la aplicación movil:
+Para ejecutar la aplicaciÃ³n movil:
 Crear una base de datos en MongoDB con el nombre citapp y dos colecciones: users y appointments
 1. npm install
 2. expo start
@@ -9,3 +9,6 @@ Para ejecutar la api de node js
 
 Para ejecutar la api de php:
 cargarlo en xampp en la carpeta htdocs
+
+#Nox emulator with React Native
+1. Open terminal and type adb connect 127.0.0.1:62001. type adb devices to make sure your emulator is connected.
